@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="ScrollHelper">
+        <attr name="scrollIcon" format="reference" />
+    </declare-styleable>
+</resources>
